@@ -1,5 +1,5 @@
 'use client';
-import { motion, variants } from 'framer-motion';
+import { motion g} from 'framer-motion';
 
 // import type { Metadata } from 'next';
 
